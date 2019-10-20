@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am an investment banker turned data scientist and programmer. I most recently completed Metis, a 12-week immersive data science bootcamp, where I worked on machine learning projects (some of which are on this blog). Prior to Metis, I worked as an investment banking analyst at Jefferies in their oil and gas group where we focused on domestic upstream M&A. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I developed a love for programming and data science through college organizations like a student-run algorithmic trading fund and by working on personal projects such as a chat bot designed to mimic my friends. I believe my background in finance and banking lends me a unique perspective of the business problems data scientists are often trying to solve, but I am excited to constantly sharpen my statistics, machine learning and programming chops!
