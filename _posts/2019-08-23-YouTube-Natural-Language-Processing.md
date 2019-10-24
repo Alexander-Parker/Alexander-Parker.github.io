@@ -6,6 +6,7 @@ date:   2019-08-23 12:00:00
 tags: [data science, NLP, AWS]
 gh-repo: Alexander-Parker/youtube_nlp
 gh-badge: [star, watch, fork, follow]
+bigimg: /img/thumbnails.png
 ---
 YouTube has received criticism for the video recommendations it gives after a user watches a video on the site. Critics allege that YouTube has prioritized viewership and engagement over all else. As a result, recommended videos are often more controversial than a viewer's initial search and likely to contain misleading if not out-right incorrect claims. YouTube claimed to have addressed these issues earlier in 2019, but I wanted to see if this was the case utilizing machine learning, specifically natural language processing and topic analysis.  
 # Data Collection Infrastructure

@@ -7,6 +7,7 @@ tags: [data science, networks, bayesian]
 gh-repo: Alexander-Parker/bayes_starcraft
 gh-badge: [star, watch, fork, follow]
 bigimg: /img/tree.png
+share-img: /img/tree.png
 ---
 This project attempts to predict an opponent’s strategy in StarCraft using real, in-game observations through a Bayesian network model (I think that is a fair label, but let me know if you disagree!). The actual network is represented as a tree data structure where each node represents a step in players’ build orders (more on this later). Nodes are evaluated (the probability of a certain step being taken in the game is adjusted) based on in-game observations. 
 
